@@ -1,0 +1,23 @@
+{
+    "valid_keyword": {
+        "search_text": "iPhone 18 Pro (1 TB) - Burgundy"
+    },
+    "suggestion_keyword": {
+        "search_text": "iphone"
+    },
+    "special_characters": {
+        "search_text": "@#$%^&*()"
+    },
+    "numeric": {
+        "search_text": "123456"
+    },
+    "alphanumeric": {
+        "search_text": "iphone15"
+    },
+    "empty": {
+        "search_text": ""
+    },
+    "no_result_keyword": {
+        "search_text": "xyzabc987654321"
+    }
+}

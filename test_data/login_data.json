@@ -1,0 +1,34 @@
+{
+    "valid_login": {
+        "username": "sankarmca55@gmail.com",
+        "password": "RAJArama@557$"
+    },
+    "empty_username": {
+        "username": "",
+        "password": "wrrogpassword"
+    },
+    "empty_password": {
+        "username": "sankarmca55@gmail.com",
+        "password": ""
+    },
+    "invalid_password": {
+        "username": "sankarmca55@gmail.com",
+        "password": "Rdskljfjksdhf"
+    },
+    "invalid_username": {
+        "username": "nothinggmail.@com",
+        "password": "wrrogpassword"
+    },
+    "invalid_mobile": {
+        "username": "0989",
+        "password": "wrrogpassword"
+    },
+    "country_code": {
+        "username": "+1998899029",
+        "password": ""
+    },
+    "fg_username": {
+        "username": "sankarmca55@gmail.com",
+        "password": ""
+    }
+}
